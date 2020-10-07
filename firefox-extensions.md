@@ -3,28 +3,16 @@
 Privacy and safety related Firefox Extensions that I use.
 
 
-### I don't care about cookies
-> "Get rid of cookie warnings from almost all websites!"
-
-https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/
-
-
-### HTTPS Everywhere
-> "Encrypt the web! HTTPS Everywhere is a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix."
-
-https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/
-
-
-### DuckDuckGo Privacy Essentials
-> "Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more."
-
-https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/
-
-
 ### Privacy Badger
 > "Automatically learns to block invisible trackers."
 
 https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
+
+
+### Decentraleyes
+> "Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking. Complements regular content blockers."
+
+https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
 
 
 ### TrackMeNot
@@ -34,10 +22,22 @@ Install: https://addons.mozilla.org/en-US/firefox/addon/trackmenot/</br>
 Homepage: https://trackmenot.io/
 
 
-### Decentraleyes
-> "Protects you against tracking through "free", centralized, content delivery. It prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking. Complements regular content blockers."
+### DuckDuckGo Privacy Essentials
+> "Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more."
 
-https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
+https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/
+
+
+### HTTPS Everywhere
+> "Encrypt the web! HTTPS Everywhere is a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix."
+
+https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/
+
+
+### I don't care about cookies
+> "Get rid of cookie warnings from almost all websites!"
+
+https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/
 
 
 ### Secure Password Generator
